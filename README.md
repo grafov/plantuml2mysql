@@ -39,7 +39,7 @@ I not lazy to write them in each table of my databases.
 
 See below result of more complicated sample from [database.plu](database.plu):
 
-[database.png](database.png)
+![database.png](database.png)
 
 ```./plantuml2mysql.py database.plu sampledb```
 
