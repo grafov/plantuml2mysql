@@ -1,6 +1,6 @@
 # plantuml2mysql
 
-I liked `plantuml` tool for UML diagrams but use it
+I liked [plantuml](http://plantuml.com/) tool for UML diagrams but use it
 also for visualizing structure of relational database.
 This script loads plantuml class diagram and generates
 DDL for MySQL SQL dialect. You may define primary keys
@@ -101,7 +101,17 @@ See below the result of a more complicated sample from [database.plu](database.p
     );                                                                      
 ```
 
-I just not need yet more features and satisfied with this code as is
-but I'll merge your patches if you create something completely different.
+# Installation
 
+The script not uses external dependencies. If you have installed Python 3
+properly then just download `plantuml2mysql.py` to appropriate location and
+run as any other Python script.
 
+# Future
+
+I just satisfied with this code as is but new features and fixes are welcome.
+Code is public domain.
+
+Thank for contributions: 
+
+* Benoît Bailleux for a lot of features.
