@@ -115,3 +115,7 @@ Code is public domain.
 Thank for contributions: 
 
 * Benoît Bailleux for a lot of features.
+
+# Similar tools
+
+* [github.com/achiku/planter](https://github.com/achiku/planter) — generate ER diagrams from PostgreSQL tables
