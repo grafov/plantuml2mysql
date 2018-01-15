@@ -116,6 +116,10 @@ Thank for contributions:
 
 * Benoît Bailleux for a lot of features.
 
+# Mentions
+
+* [An ecosystem of tools around PlantUML to render textual UML diagrams anywhere you want](https://modeling-languages.com/plantuml-textual-uml-online/)
+
 # Similar tools
 
 * [github.com/achiku/planter](https://github.com/achiku/planter) — generate ER diagrams from PostgreSQL tables
